@@ -1,0 +1,44 @@
+
+h1{
+  color:#fdac53;
+  }
+
+  
+h2{
+  color:black;
+  }
+  
+body{ 
+  background-color:#d02f47;
+}
+
+.header{
+  background-color:#5b5ea6;  
+  display:flex;
+  justify-content:space-between ;  
+}
+
+.work{
+display: flex;
+justify-content: space-evenly;
+}
+
+.con{
+  background-color: #ccccff; 
+  justify-content: space-evenly;
+border: 2px solid;
+display: flex;
+flex-wrap: wrap;
+}
+  
+
+
+  a:link{
+    color:blue;
+  }
+  
+  a:visited{
+  color: rgb(156, 19, 156);
+  }
+  
+
